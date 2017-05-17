@@ -29,5 +29,5 @@
     运行官方镜像 helloworld
     sudo docker run hello-world  等待下载并启动
     如果运行成，则如下图：
- <img src=../img/hello.ong/>
+ <img src=../img/hello.png/>
     
